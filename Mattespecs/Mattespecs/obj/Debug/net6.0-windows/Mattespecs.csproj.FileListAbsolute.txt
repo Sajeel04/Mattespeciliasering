@@ -1,0 +1,17 @@
+C:\Users\sajeel.ahmad\source\repos\Mattespecs\Mattespecs\bin\Debug\net6.0-windows\Mattespecs.exe
+C:\Users\sajeel.ahmad\source\repos\Mattespecs\Mattespecs\bin\Debug\net6.0-windows\Mattespecs.deps.json
+C:\Users\sajeel.ahmad\source\repos\Mattespecs\Mattespecs\bin\Debug\net6.0-windows\Mattespecs.runtimeconfig.json
+C:\Users\sajeel.ahmad\source\repos\Mattespecs\Mattespecs\bin\Debug\net6.0-windows\Mattespecs.dll
+C:\Users\sajeel.ahmad\source\repos\Mattespecs\Mattespecs\bin\Debug\net6.0-windows\Mattespecs.pdb
+C:\Users\sajeel.ahmad\source\repos\Mattespecs\Mattespecs\obj\Debug\net6.0-windows\Mattespecs.csproj.AssemblyReference.cache
+C:\Users\sajeel.ahmad\source\repos\Mattespecs\Mattespecs\obj\Debug\net6.0-windows\Mattespecs.Form1.resources
+C:\Users\sajeel.ahmad\source\repos\Mattespecs\Mattespecs\obj\Debug\net6.0-windows\Mattespecs.csproj.GenerateResource.cache
+C:\Users\sajeel.ahmad\source\repos\Mattespecs\Mattespecs\obj\Debug\net6.0-windows\Mattespecs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sajeel.ahmad\source\repos\Mattespecs\Mattespecs\obj\Debug\net6.0-windows\Mattespecs.AssemblyInfoInputs.cache
+C:\Users\sajeel.ahmad\source\repos\Mattespecs\Mattespecs\obj\Debug\net6.0-windows\Mattespecs.AssemblyInfo.cs
+C:\Users\sajeel.ahmad\source\repos\Mattespecs\Mattespecs\obj\Debug\net6.0-windows\Mattespecs.csproj.CoreCompileInputs.cache
+C:\Users\sajeel.ahmad\source\repos\Mattespecs\Mattespecs\obj\Debug\net6.0-windows\Mattespecs.dll
+C:\Users\sajeel.ahmad\source\repos\Mattespecs\Mattespecs\obj\Debug\net6.0-windows\refint\Mattespecs.dll
+C:\Users\sajeel.ahmad\source\repos\Mattespecs\Mattespecs\obj\Debug\net6.0-windows\Mattespecs.pdb
+C:\Users\sajeel.ahmad\source\repos\Mattespecs\Mattespecs\obj\Debug\net6.0-windows\Mattespecs.genruntimeconfig.cache
+C:\Users\sajeel.ahmad\source\repos\Mattespecs\Mattespecs\obj\Debug\net6.0-windows\ref\Mattespecs.dll
